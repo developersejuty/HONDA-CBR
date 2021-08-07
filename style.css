@@ -10,8 +10,17 @@
 .orange-text{
     color:#e76f51;
 }
-.img-size{
-    width: 149px;
-    height: 149px;
-    line-height: 100px;
+
+.black-color{
+    background-color: black;
 }
+.border-orange{
+    border:1px solid #e76f51;
+}
+.text-decoration{
+    text-decoration: none;
+}
+
+
+
+
